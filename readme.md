@@ -44,5 +44,8 @@ This will return a Sui Address because Stork Domains are natively stored on the 
 const owner: SuiAddress = await api.domains.getOwner("anthony.stork");
 ```
 
+### Open Source
+This package is open source and available at [github.com/storkdomains/js](https://github.com/storkdomains/js).
+
 ### Support
 If you have integrated with Stork Domains or require assistance with integration, please ping us on our discord at [discord.gg/stork](https://discord.gg/stork), or email us at [anthony@stork.domains](mailto:anthony@stork.domains).
