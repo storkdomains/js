@@ -25,26 +25,26 @@ export interface Domain {
 }
 
 export enum ChainType {
-    SUI='SUI',
-    BTC='BTC',
-    ETH='ETH',
-    BNB='BNB',
-    ADA='ADA',
-    SOL='SOL',
-    DOT='DOT',
-    AVAX='AVAX',
-    BCH='BCH',
-    LTC='LTC',
-    HBAR='HBAR',
-    APT='APT',
     ALGO='ALGO',
-    XTZ='XTZ',
-    FTM='FTM',
+    APT='APT',
     ARB='ARB',
-    OP='OP',
+    AVAX='AVAX',
     BASE='BASE',
+    BNB='BNB',
+    BTC='BTC',
+    BCH='BCH',
+    ADA='ADA',
     ATOM='ATOM',
     DOGE='DOGE',
+    ETH='ETH',
+    FTM='FTM',
+    HBAR='HBAR',
+    LTC='LTC',
+    OP='OP',
+    DOT='DOT',
+    SOL='SOL',
+    SUI='SUI',
+    XTZ='XTZ'
 }
 
 /*
