@@ -1,4 +1,4 @@
-## @storkdomains/js
+# @storkdomains/js
 Client library to interact with the Stork Domains smart contract.
 
 Install with [npm](https://www.npmjs.com/):
